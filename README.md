@@ -4,8 +4,9 @@
 <br>
 
 ### About DH HackBar
-
+<br>
 <p align="center"> <a href="#"><img title="HAXOR" src="https://1.bp.blogspot.com/-ui9y_7kjZQQ/X65oQ5mMZ4I/AAAAAAAAADA/E7NzB1nhbpQn1J1mNGOX3Zx8WtJSrP5AwCLcBGAsYHQ/s320/20201113_170028.png" height="200" width="200"> </a> </p>
+<br>
 ➤ DH HackBar is a Advanced Web Penetration Testing Tool for Android devices. It is developed by the ethical hacking team named <b>Team Darknet Haxor</b>.
 <br>
 <br>
@@ -68,4 +69,5 @@ Write, store and edit unlimited amounts of queries.
 Handy tools which are needed most. These includes Hash Decrypter, SQLi Scanner, Reverse IP and Sub-Domain Checker.
 <br>
 <br>
+
 ### Thanks for Supporting Us.
