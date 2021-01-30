@@ -61,7 +61,7 @@ Scan the Admin Panel for possible links for Admin Panel Bypass.
 
 ➤ Custom Query:
 <br>
-Write, store and edit unlimited amounts of queries.
+Write, store and edit unlimited amount of queries.
 
 ➤ Web Tools:
 <br>
