@@ -7,7 +7,7 @@
 
 ### About DH HackBar
 
-➤ DH HackBar is a Advanced Web Penetration Testing Tool for Android devices. It is developed by an ethical hacking team named “Team Darknet Haxor” and Coded by Mast3r j4v4.
+➤ DH HackBar is a Advanced Web Penetration Testing Tool for Android devices. It is developed by an ethical hacking team named <b>“Team Darknet Haxor”</b> and Coded by <b>Mast3r j4v4</b>.
 
 <br><br>
 
