@@ -13,8 +13,8 @@
 
 ### Device Requirements
 
-Recommended Android version is at least 6. Minimum Android version it supports well is 5.
-Note ➡ Some features may not be working for devices using Android versions less than 6. We will try to fix those in the next updates, keep patience till then.
+Recommended Android version is at least 6. Minimum Android version it supports well is 5.<br>
+Note: Some features may not be working for devices using Android versions less than 6. We will try to fix those in the next updates, keep patience till then.
 
 <br><br>
 
