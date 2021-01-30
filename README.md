@@ -60,3 +60,7 @@ Write, store and edit unlimited amounts of queries.
 
 ➤ Web Tools:
 Handy tools which are needed most. These includes Hash Decrypter, SQLi Scanner, Reverse IP and Sub-Domain Checker.
+
+<br><br>
+
+## Thanks for Support Us.
