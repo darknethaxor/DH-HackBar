@@ -38,29 +38,34 @@ PostgreSQL Injections.
 ➤ Provides built-in Replacement Tool to replace any String to Hex, URLEncode, Base64, Binary or ASCII and vice versa.
 
 ➤ Gives you opportunity to use No Redirection and HTTP Headers Modification through Tamper Data.
-
+<br>
 <br>
 
 #### Other Features
 
 ➤ Inbuilt Update Feature:
+<br>
 Checks for latest updates and installs them, keeps your HackBar up-to-date.
 
 ➤ Interactive Find in Page Feature:
+<br>
 Find any text in webpages easily.
 
 ➤ Admin Panel Finder:
+<br>
 Find Admin Panel in a smart and faster way.
 
 ➤ Admin Panel Scanner:
+<br>
 Scan the Admin Panel for possible links for Admin Panel Bypass.
 
 ➤ Custom Query:
+<br>
 Write, store and edit unlimited amounts of queries.
 
 ➤ Web Tools:
+<br>
 Handy tools which are needed most. These includes Hash Decrypter, SQLi Scanner, Reverse IP and Sub-Domain Checker.
-
-<br><br>
-
+<br>
+<br>
 ### Thanks for Supporting Us.
