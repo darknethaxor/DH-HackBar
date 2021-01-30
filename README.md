@@ -69,6 +69,8 @@ Handy tools which are needed most. These includes Hash Decrypter, SQLi Scanner, 
 <br>
 <br>
 
-<a href="https://github.com/darknethaxor/DH-HackBar/raw/main/Latest.apk">DH HackBar</a>
+### Download
+
+<a href="https://github.com/darknethaxor/DH-HackBar/raw/main/Latest.apk">DH_HackBar-V1.0.apk</a>
 
 ### Thanks for Supporting Us.
