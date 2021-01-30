@@ -40,7 +40,7 @@ PostgreSQL Injections.
 
 ➤ Gives you opportunity to use No Redirection and HTTP Headers Modification through Tamper Data.
 
-<br><br>
+<br>
 
 #### Other Features
 
