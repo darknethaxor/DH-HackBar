@@ -40,6 +40,7 @@ PostgreSQL Injections.
 
 ➤ Gives you opportunity to use No Redirection and HTTP Headers Modification through Tamper Data.
 
+<br><br>
 
 #### Other Features
 
@@ -63,4 +64,4 @@ Handy tools which are needed most. These includes Hash Decrypter, SQLi Scanner, 
 
 <br><br>
 
-### Thanks for Support Us.
+### Thanks for Supporting Us.
