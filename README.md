@@ -9,14 +9,14 @@
 
 ➤ DH HackBar is a Advanced Web Penetration Testing Tool for Android devices. It is developed by an ethical hacking team named “Team Darknet Haxor.”
 
-<br><br><br>
+<br><br>
 
 ### Device Requirements
 
 Recommended Android version is at least 6. Minimum Android version it supports well is 5.
 Note ➡ Some features may not be working for devices using Android versions less than 6. We will try to fix those in the next updates, keep patience till then.
 
-<br><br><br>
+<br><br>
 
 ### Version 1.0 Features
 
