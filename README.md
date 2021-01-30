@@ -6,10 +6,10 @@
 
 ### About DH HackBar
 
+<p align="center"> <a href="#"><img title="HAXOR" src="https://1.bp.blogspot.com/-ui9y_7kjZQQ/X65oQ5mMZ4I/AAAAAAAAADA/E7NzB1nhbpQn1J1mNGOX3Zx8WtJSrP5AwCLcBGAsYHQ/s320/20201113_170028.png" height="200" width="200"> </a> </p> <br> 
+<br>
 ➤ DH HackBar is a Advanced Web Penetration Testing Tool for Android devices. It is developed by an ethical hacking team named <b>“Team Darknet Haxor”</b> and Coded by <b>Mast3r J4V4</b>.
 
-<br>
-<p align="center"> <a href="#"><img title="HAXOR" src="https://1.bp.blogspot.com/-ui9y_7kjZQQ/X65oQ5mMZ4I/AAAAAAAAADA/E7NzB1nhbpQn1J1mNGOX3Zx8WtJSrP5AwCLcBGAsYHQ/s320/20201113_170028.png" height="200" width="200"> </a> </p> <br> 
 <br><br>
 
 ### Device Requirements
