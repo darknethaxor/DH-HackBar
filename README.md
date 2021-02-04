@@ -3,6 +3,12 @@
 <br>
 <br>
 
+# Download
+
+📥 <a href="https://github.com/darknethaxor/DH-HackBar/raw/main/Latest.apk">DH_HackBar-V1.0.apk</a>
+
+<br>
+
 ### About DH HackBar
 <br>
 <p align="center"> <a href="#"><img title="HAXOR" src="https://1.bp.blogspot.com/-ui9y_7kjZQQ/X65oQ5mMZ4I/AAAAAAAAADA/E7NzB1nhbpQn1J1mNGOX3Zx8WtJSrP5AwCLcBGAsYHQ/s320/20201113_170028.png" height="200" width="200"> </a> </p>
@@ -67,12 +73,6 @@ Write, store and edit unlimited amount of queries.
 <br>
 Handy tools which are needed most. These includes Hash Decrypter, SQLi Scanner, Reverse IP and Sub-Domain Checker.
 <br>
-<br>
-
-### Download
-
-📥 <a href="https://github.com/darknethaxor/DH-HackBar/raw/main/Latest.apk">DH_HackBar-V1.0.apk</a>
-
 <br>
 
 ### Special Thanks To
