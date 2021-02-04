@@ -21,6 +21,7 @@
 
 <p>Recommended Android version is at least 6. Minimum Android version it supports well is 5.</p>
 <p><b>Note:</b> Some features may not be working for devices using Android versions less than 6. We will try to fix those in the next updates, keep patience till then.</p>
+<br>
 
 ### Version 1.0 Features
 
@@ -102,6 +103,7 @@ https://github.com
 ### Also Thanks To
 
 We are really thankful to all the members of Darknet Haxor group. Their love and support have always inspired us to do great things. Thanks again, dear brothers!
+<br>
 
 ### Made with ❤️ by Sketchware
 
@@ -110,6 +112,4 @@ Sketchware is an Application Developement IDE on Android.
 Site: https://sketchware.io
 
 <br>
-<br>
-
 ### Thanks for Supporting Us.
