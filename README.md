@@ -50,7 +50,7 @@ PostgreSQL Injections.
 <br>
 <br>
 
-#### Other Features
+### Other Features
 
 ➤ Inbuilt Update Feature:
 <br>
