@@ -97,6 +97,8 @@ https://github.com
 4. Some DIOS, payloads and queries were collected from the Internet, Anon HackBar, Pure Exploit HackBar and Desktop's Mozila Firefox HackBar Addon [V. 2.9.2].
 
 <b>NOTE:</b> DH HackBar is not an modified application. It's development was started as a fully blank project by the developers of Team Darknet Haxor. During the development period, we tried to follow Anon HackBar's design, as users are already familiar and will be much comfortable with it.
+<br>
+<br>
 
 ### Also Thanks To
 
@@ -108,6 +110,7 @@ Sketchware is an Application Developement IDE on Android.
 
 Site: https://sketchware.io
 
+<br>
 <br>
 
 ### Thanks for Supporting Us.
