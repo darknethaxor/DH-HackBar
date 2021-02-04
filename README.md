@@ -83,14 +83,12 @@ Handy tools which are needed most. These includes Hash Decrypter, SQLi Scanner, 
 1. We cordially thank them, who helped us directly or indirectly, by means of sharing knowledge, ideas, suggestions, or by providing DIOS, payloads, queries and other necessary stuffs.<br><br>We are really grateful to them.
 
 2. We used these in Web Tools:
-<br>
 * https://hashes.com/en/decrypt/hash (Hash Decrypter)<br>
 * https://pentest-tools.com/website-vulnerability-scanning/sql-injection-scanner-online (SQLi Scanner)<br>
 * https://www.yougetsignal.com/tools/web-sites-on-web-server (Reverse IP)<br>
 * https://hackertarget.com/find-dns-host-records (Sub-Domain Checker)
 
 3. We took help of the following websites for programming related perposes:
-<br>
 * https://www.google.com<br>
 * https://www.youtube.com<br>
 * https://developer.android.com<br>
