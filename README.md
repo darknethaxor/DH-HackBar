@@ -103,8 +103,8 @@ https://github.com
 We are really thankful to all the members of Darknet Haxor group. Their love and support have always inspired us to do great things. Thanks again, dear brothers!
 
 
-### Builder Credit
+### Made With by
 
-Made with by <a href="https://sketchware.io">Sketchware</a>
+ <a href="https://sketchware.io">Sketchware</a>
 
 ### Thanks for Supporting Us.
