@@ -102,9 +102,11 @@ https://github.com
 
 We are really thankful to all the members of Darknet Haxor group. Their love and support have always inspired us to do great things. Thanks again, dear brothers!
 
+### Made with ❤️ by Sketchware
 
-### Made With by
+Sketchware is an Application Developement IDE on Android.
 
- <a href="https://sketchware.io">Sketchware</a>
+Site: https://sketchware.io
+
 
 ### Thanks for Supporting Us.
