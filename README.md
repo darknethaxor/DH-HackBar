@@ -26,7 +26,7 @@ Recommended Android version is at least 6. Minimum Android version it supports w
 <br>
 <br>
 
-### Version 1.0 Features
+### Latest Version Features
 
 ➤ The HackBar offers an Integrated Web Security and Penetration Testing Environment to perform basic and some of the advanced SQL Injections, including:
 Union Based Injections,
