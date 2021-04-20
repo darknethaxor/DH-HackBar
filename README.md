@@ -3,7 +3,7 @@
 <br>
 <br>
 
-### Download
+### Download 
 
 📥 <a href="https://github.com/darknethaxor/DH-HackBar/raw/main/Latest.apk">DH_HackBar-V1.1.apk</a>
 <br>
@@ -111,7 +111,7 @@ We are really thankful to all the members of Darknet Haxor group. Their love and
 
 Sketchware is an Application Developement IDE on Android.
 
-Site: https://sketchware.io
+Site : https://sketchware.io
 <br>
 <br>
 
