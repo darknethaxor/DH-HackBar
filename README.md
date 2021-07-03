@@ -41,7 +41,7 @@ Xpath Injections,
 MsSQL Injections and,
 PostgreSQL Injections.
 
-➤ Comes with 30 DIOS (Dump Information in One Shot) queries to meet up the need of injectors or penetration testers. Furthermore, 14 Local Variable DIOS queries are added which can be used to bypass hard WAF (Web Application Firewall) security.
+➤ Comes with 30+ DIOS (Dump Information in One Shot) queries to meet up the need of injectors or penetration testers. Furthermore, 14 Local Variable DIOS queries are added which can be used to bypass hard WAF (Web Application Firewall) security.
 
 ➤ Enables you to perform 4x Method, Null Method and other advanced methods (like Join Method) in Union Based Injections.
 
