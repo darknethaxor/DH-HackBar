@@ -5,7 +5,7 @@
 
 ### Download 
 
-📥 <a href="https://github.com/darknethaxor/DH-HackBar/raw/main/Latest.apk">DH_HackBar-V1.1.apk</a>
+📥 <a href="https://github.com/darknethaxor/DH-HackBar/releases">Download</a> from releases.
 <br>
 <br>
 
