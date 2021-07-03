@@ -3,6 +3,11 @@
 <br>
 <br>
 
+### Agreements
+Please read out [https://github.com/darknethaxor/DH-HackBar/blob/main/TermsOfService.md](Terms of Service) and [https://github.com/darknethaxor/DH-HackBar/blob/main/PrivacyPolicy.md](Privacy Policy) before downloading and using this tool.
+<br>
+<br>
+
 ### Download 
 
 📥 <a href="https://github.com/darknethaxor/DH-HackBar/releases">Download</a> from releases.
