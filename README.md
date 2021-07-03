@@ -10,7 +10,7 @@ Please read our <a href="https://github.com/darknethaxor/DH-HackBar/blob/main/Te
 
 ### Download 
 
-📥 <a href="https://github.com/darknethaxor/DH-HackBar/releases">Download</a> from releases.
+📥 <a href="https://github.com/darknethaxor/DH-HackBar/releases">Download</a> the latest version from releases.
 <br>
 <br>
 
