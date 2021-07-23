@@ -4,7 +4,7 @@
 <br>
 
 ### Agreements
-Please read our <a href="https://github.com/darknethaxor/DH-HackBar/blob/main/TermsOfService.md">Terms of Service</a> and <a href="https://github.com/darknethaxor/DH-HackBar/blob/main/PrivacyPolicy.md">Privacy Policy</a> before downloading and using this tool.
+Read our <a href="https://github.com/darknethaxor/DH-HackBar/blob/main/TermsOfService.md">Terms of Service</a> and <a href="https://github.com/darknethaxor/DH-HackBar/blob/main/PrivacyPolicy.md">Privacy Policy</a> before downloading and using this application.
 <br>
 <br>
 
