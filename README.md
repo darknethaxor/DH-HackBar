@@ -1,7 +1,13 @@
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-<p> <a href="#"><img title="HAXOR" src="https://raw.githubusercontent.com/darknethaxor/picture/main/20210130_095536.png"> </a> </p>
+<p align="center">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<p>
+<a href="#">
+<img title="DH-Hackbar" src="https://raw.githubusercontent.com/darknethaxor/picture/main/20210130_095536.png">
+</a>
+</p>
 <b><u>Disclaimer:</u></b> This tool is built for ethical pentesting and learning purposes only. We never support or provoke any unethical, harmful and illegal activity. The developers will not be responsible for any misuse of the tool.
-<br>
+</p>
 <br>
 
 ### Agreements
@@ -9,15 +15,18 @@ Read our <a href="https://github.com/darknethaxor/DH-HackBar/blob/main/TermsOfSe
 <br>
 <br>
 
-### Download 
-
+### Download
 📥 <a href="https://github.com/darknethaxor/DH-HackBar/releases">Download</a> the latest version from releases.
 <br>
 <br>
 
 ### About DH HackBar
 <br>
-<p align="center"> <a href="#"><img title="HAXOR" src="https://1.bp.blogspot.com/-ui9y_7kjZQQ/X65oQ5mMZ4I/AAAAAAAAADA/E7NzB1nhbpQn1J1mNGOX3Zx8WtJSrP5AwCLcBGAsYHQ/s320/20201113_170028.png" height="200" width="200"> </a> </p>
+<p align="center">
+<a href="#">
+<img title="Darknet Haxor" alt="Darknet Haxor Logo" src="https://1.bp.blogspot.com/-ui9y_7kjZQQ/X65oQ5mMZ4I/AAAAAAAAADA/E7NzB1nhbpQn1J1mNGOX3Zx8WtJSrP5AwCLcBGAsYHQ/s320/20201113_170028.png" height="200" width="200">
+</a>
+</p>
 <br>
 <b>DH HackBar</b> is a Advanced Web Penetration Testing Tool for Android devices. It is developed by the ethical hacking team named <b>Team Darknet Haxor</b>.
 <br>
@@ -113,7 +122,12 @@ We are really thankful to all the members of Darknet Haxor group. Their love and
 <br>
 <br>
 
-### Thanks for Supporting Us.
+### Stargazers
+<p align="center">
+<img src="https://starchart.cc/darknethaxor/DH-HackBar.svg">
+<u><b>Github Stars</b></u>
+</p>
+<br>
 
 ### Any queries?
 Get us here,<br></br>
