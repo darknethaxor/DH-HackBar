@@ -20,6 +20,9 @@ Read our <a href="https://github.com/darknethaxor/DH-HackBar/blob/main/TermsOfSe
 <br>
 <br>
 
+### Watch our official video by <a href="https://github.com/frozenflame00001/">Frozen Flame</a>
+[![Watch the video](https://img.youtube.com/vi/tR2fyFzPn3k/hqdefault.jpg)](https://youtu.be/tR2fyFzPn3k)
+
 ### About DH HackBar
 <br>
 <p align="center">
