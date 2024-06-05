@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-1.1-green?style=flat-square">
+  <img src="https://img.shields.io/badge/version-1.1-green?style=flat-square">
   <img src="https://img.shields.io/github/stars/darknethaxor/DH-HackBar?style=flat-square">
   <img src="https://img.shields.io/github/issues/darknethaxor/DH-HackBar?color=red&style=flat-square">
   <img src="https://img.shields.io/github/forks/darknethaxor/DH-HackBar?color=teal&style=flat-square">
