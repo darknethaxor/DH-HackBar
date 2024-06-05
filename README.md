@@ -16,7 +16,7 @@ Read our <a href="https://github.com/darknethaxor/DH-HackBar/blob/main/TermsOfSe
 <br>
 
 ### Download
-📥 <a href="https://github.com/darknethaxor/DH-HackBar/releases">Download</a> the latest version from releases.
+📥 Download the latest version from <a href="https://github.com/darknethaxor/DH-HackBar/releases">releases</a>.
 <br>
 <br>
 
