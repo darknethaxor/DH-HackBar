@@ -1,6 +1,18 @@
 <p align="center">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Version-1.1-green?style=flat-square">
+  <img src="https://img.shields.io/github/stars/darknethaxor/DH-HackBar?style=flat-square">
+  <img src="https://img.shields.io/github/issues/darknethaxor/DH-HackBar?color=red&style=flat-square">
+  <img src="https://img.shields.io/github/forks/darknethaxor/DH-HackBar?color=teal&style=flat-square">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Developer-itsyashuvo-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/Open%20Source-No-darkgreen?style=flat-square">
+  <img src="https://img.shields.io/badge/Maintained%20-No-lightblue?style=flat-square">
+  <img src="https://img.shields.io/badge/Written%20In-Java%20|%20JavaScript-darkcyan?style=flat-square">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdarknethaxor%2FDH-HackBar&title=Visitors&edge_flat=false"/></a>
+</p>
+
 <p>
 <a href="#">
 <img title="DH-Hackbar" src="https://raw.githubusercontent.com/darknethaxor/picture/main/20210130_095536.png">
