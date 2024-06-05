@@ -11,7 +11,7 @@
 <br>
 
 ### Agreements
-Read our <a href="https://github.com/darknethaxor/DH-HackBar/blob/main/TermsOfService.md">Terms of Service</a> and <a href="https://github.com/darknethaxor/DH-HackBar/blob/main/PrivacyPolicy.md">Privacy Policy</a> before downloading and using this application.
+Read our <a href="https://github.com/darknethaxor/DH-HackBar/blob/main/TermsOfService.md">Terms of Service</a> and <a href="https://github.com/darknethaxor/DH-HackBar/blob/main/PrivacyPolicy.md">Privacy Policy</a> before installing and using this application.
 <br>
 <br>
 
@@ -33,6 +33,12 @@ Read our <a href="https://github.com/darknethaxor/DH-HackBar/blob/main/TermsOfSe
 <br>
 <b>DH HackBar</b> is a Advanced Web Penetration Testing Tool for Android devices. It is developed by the ethical hacking team named <b>Team Darknet Haxor</b>.
 <br>
+<br>
+
+### Developers
+- [**Yasin Ahmed Shuvo (Master Java)**](https://github.com/itsyashuvo/)
+- **Net Hunter**
+- **Frozen Flame**
 <br>
 
 ### Device Requirements
