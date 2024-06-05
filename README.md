@@ -6,7 +6,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Developer-itsyashuvo-blue?style=flat-square">
   <img src="https://img.shields.io/badge/Open%20Source-No-darkgreen?style=flat-square">
   <img src="https://img.shields.io/badge/Maintained%20-No-lightblue?style=flat-square">
   <img src="https://img.shields.io/badge/Written%20In-Java%20|%20JavaScript-darkcyan?style=flat-square">
